@@ -79,7 +79,7 @@
         "name":"Fan Tee Wristwatch",
         "price": 100,
         "isFavorite" : false,
-        "isTrending" : true,
+        "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic7-related-1.jpg?raw=true",
@@ -117,7 +117,7 @@
         "name":"Free Long Gown",
         "price": 987,
         "isFavorite" : false,
-        "isTrending" : true,
+        "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : []
     },
@@ -165,7 +165,7 @@
         "name":"Accessible Wrist Watch",
         "price": 54,
         "isFavorite" : false,
-        "isTrending" : true,
+        "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic14-related-1.jpg?raw=true"
@@ -223,7 +223,7 @@
         "name":"Absorbable Towel",
         "price": 789,
         "isFavorite" : false,
-        "isTrending" : true,
+        "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic19-related-1.jpg?raw=true",
@@ -236,7 +236,7 @@
         "name":"Fashiko Tennis",
         "price": 258,
         "isFavorite" : false,
-        "isTrending" : true,
+        "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : []
     }
