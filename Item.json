@@ -10,7 +10,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic1-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic1-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "2",
@@ -22,7 +24,9 @@
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic2-related-1.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "3",
@@ -32,7 +36,9 @@
         "isFavorite" : false,
         "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
-        "related" : [], "inCart": false
+        "related" : [], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "4",
@@ -45,7 +51,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic4-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic4-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "5",
@@ -58,7 +66,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic5-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic5-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "6",
@@ -71,7 +81,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic6-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic6-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "7",
@@ -84,7 +96,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic7-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic7-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "8",
@@ -97,7 +111,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic8-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic8-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "9",
@@ -109,7 +125,9 @@
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic9-related-1.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "10",
@@ -119,7 +137,9 @@
         "isFavorite" : false,
         "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
-        "related" : [], "inCart": false
+        "related" : [], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "11",
@@ -132,7 +152,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic11-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic11-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "12",
@@ -144,7 +166,9 @@
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic12-related-1.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "13",
@@ -157,7 +181,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic13-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic13-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "14",
@@ -169,7 +195,9 @@
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic14-related-1.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "15",
@@ -182,7 +210,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic15-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic15-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "16",
@@ -192,7 +222,9 @@
         "isFavorite" : false,
         "isTrending" : true,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
-        "related" : [], "inCart": false
+        "related" : [], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "17",
@@ -205,7 +237,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic17-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic17-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "18",
@@ -215,7 +249,9 @@
         "isFavorite" : false,
         "isTrending" : true,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
-        "related" : [], "inCart": false
+        "related" : [], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "19",
@@ -228,7 +264,9 @@
         "related" : [
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic19-related-1.jpg?raw=true",
             "https://github.com/Shayor/e-commerce-data-bank/blob/master/pic19-related-2.jpg?raw=true"
-        ], "inCart": false
+        ], 
+        "inCart": false,
+        "quantity" : 0
     },
     {
         "id" : "20",
@@ -238,6 +276,8 @@
         "isFavorite" : false,
         "isTrending" : false,
         "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam earum corrupti odit natus, dolore ut laudantium deleniti.",
-        "related" : [], "inCart": false
+        "related" : [], 
+        "inCart": false,
+        "quantity" : 0
     }
 ]
